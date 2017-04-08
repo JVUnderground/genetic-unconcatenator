@@ -9,7 +9,7 @@ with open("sentence.txt") as f:
 
 sequence = [x.replace(" ", "").lower().strip() for x in sequence]
 sequence = "".join(sequence)
-
+print(sequence)
 
 # Dictionary of words.
 with open("dictionary.txt") as d:
