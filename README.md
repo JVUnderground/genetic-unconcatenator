@@ -3,7 +3,8 @@ Transform a sequence of spaceless letters into the most probable collection of w
 
 Run
 ---
-`$ python genetic-split.py
+```
+$ python genetic-split.py
 rosesareredvioletsarebluesugarissweetandsoareyou
 1: rose sar er ed v iol ets are b lu e s ugarissw e eta nds o a re you - 37 errors (0)
 2: ro ses are r e d vio let s a re b lue s ug a r i s sweeta nd so are y o u - 35 errors (0)
@@ -22,4 +23,4 @@ rosesareredvioletsarebluesugarissweetandsoareyou
 111: roses are red violets are blue sugar is sweet and so are you - 0 errors (10)
 
 Best individual - 00001001001000000100100010000101000010010100100
-`
+```
